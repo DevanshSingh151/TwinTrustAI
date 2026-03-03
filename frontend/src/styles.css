@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+  font-family: Arial;
+  color: white;
+}
+
+.app {
+  padding: 30px;
+}
+
+.card {
+  background: rgba(255, 255, 255, 0.1);
+  padding: 20px;
+  border-radius: 15px;
+  margin-bottom: 20px;
+  backdrop-filter: blur(10px);
+}
